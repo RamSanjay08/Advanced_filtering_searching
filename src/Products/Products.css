@@ -44,3 +44,7 @@ h3 {
   text-decoration: line-through;
   font-weight: bold;
 }
+
+.shop_bag {
+  cursor: pointer;
+}

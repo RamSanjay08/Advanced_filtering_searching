@@ -1,0 +1,19 @@
+.checkbox_container {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  margin-block: .8rem 1.2rem;
+}
+
+.category_label span {
+  font-size: .8rem;
+}
+
+.category_label {
+  cursor: pointer;
+}
+
+.category_input {
+  cursor: pointer;
+}
+

@@ -8,12 +8,12 @@ const Navbar = () => {
   return (
     <nav>
       <div className='input-container'>
-        <input type="text" placeholder='Enter your Search Shoes' />
+        <input type="text" placeholder='Enter your Search Shoes' className='input_nav' />
       </div>
       <div className='nav-icons'>
-        <FaRegHeart />
-        <IoCartOutline />
-        <FaRegUser />
+        <FaRegHeart className='nav_icon'/>
+        <IoCartOutline className='nav_icon'/>
+        <FaRegUser className='nav_icon'/>
       </div>
     </nav>
   )

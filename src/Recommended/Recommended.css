@@ -16,4 +16,5 @@
   background-color: white;
   border: solid .5px #4444449a;
   border-radius: .3rem;
+  cursor: pointer;
 }

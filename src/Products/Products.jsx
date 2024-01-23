@@ -30,7 +30,7 @@ const Products = () => {
                 <p>
                   <span>{prevPrice}</span> {newPrice}
                 </p>
-                <FaShoppingBag />
+                <FaShoppingBag className="shop_bag"/>
               </div>
             </div>
           </div>
