@@ -5,12 +5,9 @@
   margin-block: .8rem 1.2rem;
 }
 
-.category_label span {
-  font-size: .8rem;
-}
-
 .category_label {
   cursor: pointer;
+  font-size: .8rem;
 }
 
 .category_input {

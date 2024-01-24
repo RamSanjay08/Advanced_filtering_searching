@@ -9,37 +9,37 @@ const Colors = () => {
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>All</span>
+            All
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>Black</span>
+            Black
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>Blue</span>
+            Blue
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>Red</span>
+            Red
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>Green</span>
+            Green
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>White</span>
+            White
           </label>
         </div>
       </div>

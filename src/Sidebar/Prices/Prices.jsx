@@ -9,31 +9,31 @@ const Prices = () => {
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>All</span>
+            All
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>$0 - 50</span>
+            $0 - 50
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>$50 - 100</span>
+            $50 - 100
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>$100 - 150</span>
+            $100 - 150
           </label>
         </div>
         <div className="label_container">
           <label className="category_label">
             <input type="radio" name="test" className="category_input" />{" "}
-            <span>Over - $150</span>
+            Over - $150
           </label>
         </div>
       </div>
